@@ -20,7 +20,7 @@
   "kv_namespaces": [
     {
       "binding": "BOT_KV",
-      "id": "aa82aec00b2240768ed4f75b0ffe5362"
+      "id": "tg-ad-guard-kv"
     }
   ],
   "durable_objects": {
