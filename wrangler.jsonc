@@ -35,10 +35,7 @@
     "binding": "AI"
   },
   "analytics_engine_datasets": [
-    {
-      "binding": "ANALYTICS",
-      "dataset": "tg_ad_guard_events"
-    }
+    { "binding": "analytic_engine", "dataset": "analytic_events" }
   ],
   "ratelimits": [
     {
