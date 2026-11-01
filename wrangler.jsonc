@@ -8,8 +8,8 @@
   ],
   "routes": [
     {
-      "pattern": "bot.jasonselect.com",
-      "custom_domain": true
+      "pattern": "olvskii.workers.dev",
+      "custom_domain": false
     }
   ],
   "workers_dev": true,
