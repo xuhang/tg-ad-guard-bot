@@ -6,12 +6,6 @@
   "compatibility_flags": [
     "nodejs_compat"
   ],
-  "routes": [
-    {
-      "pattern": "olvskii.workers.dev",
-      "custom_domain": false
-    }
-  ],
   "workers_dev": true,
   "keep_vars": true,
   "secrets": {
